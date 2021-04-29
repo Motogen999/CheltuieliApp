@@ -1,0 +1,13 @@
+D:\.Net Apps\CheltuieliApp\bin\Debug\CheltuieliApp.exe.config
+D:\.Net Apps\CheltuieliApp\bin\Debug\CheltuieliApp.exe
+D:\.Net Apps\CheltuieliApp\bin\Debug\CheltuieliApp.pdb
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.csprojAssemblyReference.cache
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.Form1.resources
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.Properties.Resources.resources
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.csproj.GenerateResource.cache
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.csproj.CoreCompileInputs.cache
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.exe
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.pdb
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.Form3.resources
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.Login.resources
+D:\.Net Apps\CheltuieliApp\obj\Debug\CheltuieliApp.Register.resources
